@@ -39,4 +39,3 @@ Named params:
 
     $ curl -H "Content-Type: application/json" -d '{ "jsonrpc": "2.0", "method": "add", "params": { "b": 1, "a": 2 }, "id":2 }' http://localhost:3000
 
-
